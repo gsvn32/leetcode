@@ -1,1 +1,1 @@
-# My solutions for the leetcode probmlems
+# My solutions for the leetcode problems
